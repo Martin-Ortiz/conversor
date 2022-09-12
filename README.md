@@ -31,6 +31,6 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 <h2>Autor:</h2>
 Martin Ortiz Dionicio
 
-<h2>Funcionalidad</h2>
+<h2>Funcionalidad - enlace video YouTube</h2>
 
 [![Alt text](https://img.youtube.com/vi/VPgjWA2veiw/0.jpg)](https://www.youtube.com/watch?v=VPgjWA2veiw)
